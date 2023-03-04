@@ -28,8 +28,8 @@
   
   
 <div>&nbsp;</div>
-<b>If I'm not mistaken, it will multiply the np.dot() for vcv_matrix & weights together and then add it to weights in np.transpose(). 
-Then the biggest np.dot() will multiple the two together and produce a result.
+<b>If I'm not mistaken, np.transpose() will convert weights from rows to columns and columns to rows. The smaller np.dot() will matrix multiply (rows to columns and columns to rows) vcv_matrix & weights together.
+Then the biggest np.dot() will matrix multiply the np.transpose and the smaller np.dot together and produce a result.
 
 
 
