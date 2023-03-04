@@ -20,7 +20,7 @@
 <b>vcv_matrix = returns_df.cov() <- This pretty much just does returns_df = prices_df.pct_change(1)</b>
 <div>&nbsp;</div>
 <b> Then the .py file calculates the variance of a k asset portfolio as:</b>
-<b>var_p = np.dot(np.transpose(weights), np.dot(vcv_matrix, weights))</b>
+<b> var_p = np.dot(np.transpose(weights), np.dot(vcv_matrix, weights))</b>
 <div>&nbsp;</div>
   
   
