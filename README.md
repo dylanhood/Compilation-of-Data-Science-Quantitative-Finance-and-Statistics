@@ -21,6 +21,13 @@ And yes I'm aware of how unprofessional this README.md file is.
 
 ## Acknowledgements
 
+<div>&nbsp;</div>
+
+#### If you end up finding some of the content in this repository helpful you might try picking up one and/or all of these courses to learn things more in-depth.
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+
 <b>Fervent Learning</b> - [Data-Driven Investing with Python | Financial Data Science (Udemy Course - Duration ≈ 13.5 hours)](https://www.udemy.com/course/data-driven-investing-with-python-financial-data-science/)
 
 <div>&nbsp;</div>
