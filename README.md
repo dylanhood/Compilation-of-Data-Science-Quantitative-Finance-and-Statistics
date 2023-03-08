@@ -40,7 +40,7 @@ And yes I'm aware of how unprofessional this README.md file is.
 
 <div>&nbsp;</div>
 
-<b>Cameron Connell</b> - [Statistics for Finance (Udemy Course ~ 32 hours)](https://www.udemy.com/course/statistics-for-finance/)
+<b>Cameron Connell</b> - [Statistics for Finance (Udemy Course ≈ 32 hours)](https://www.udemy.com/course/statistics-for-finance/)
 
 <div>&nbsp;</div>
 
